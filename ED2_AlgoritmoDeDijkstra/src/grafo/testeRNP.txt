@@ -1,0 +1,3 @@
+Vertice 1 - 2, MTU = 3.0 G
+Vertice 2 - 3, MTU = 3.0 G
+Vertice 3 - 4, MTU = 10.0 G
